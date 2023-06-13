@@ -1,6 +1,2 @@
 !!!!!my project
 hello 
-hi
-adham
-KHALID
-
